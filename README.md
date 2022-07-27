@@ -1,6 +1,7 @@
-## Title: Developing Graph Neural Network model over Knowledgegraph in the interface of Cardiovascular Disease and Oxidative Stress.
+### Title: Developing Graph Neural Network model over Knowledgegraph in the interface of Cardiovascular Disease and Oxidative Stress.
 
-### Description: This project includes the development of Graph neural Network model with Knowledgegraph in the interface of the Cardiovascular Diseases and Oxidative Stress.
+### Description: 
+This project includes the development of Graph neural Network model with Knowledgegraph in the interface of the Cardiovascular Diseases and Oxidative Stress.
 
 ### Project Walkthrough:
 1. Understand the content and development of the knowledgegraph in the interface of Cardiovascular Disease and Oxidative Stress from previous project.
