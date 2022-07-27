@@ -1,8 +1,8 @@
 ### Title: 
-***Developing Graph Neural Network (GNN) model over Knowledgegraph in the interface of Cardiovascular Disease (CVD) and Oxidative Stress (OS)***.
+***Developing Graph Neural Network (GNN) model over the Knowledgegraph in the interface of Cardiovascular Disease (CVD) and Oxidative Stress (OS)***.
 
 ### Description: 
-This project includes the development of Graph neural Network model with Knowledgegraph in the interface of the Cardiovascular Diseases and Oxidative Stress.
+This project includes the development of Graph Neural Network (GNN) model with knowledgegraph in the interface of the Cardiovascular Diseases (CVD) and Oxidative Stress (OS). Previous projet on "Building Knowledgegraph in the interface of the Cardiovascular Diseases and Oxidative Stress" has sufficiently provided the required data and data schima for building heterogeneous graph representation. One need to convert the knowledge graph into graph embedding so that it can us used for Graph Neural Network model. In general, GNN offers the three different prdiction models (1) node prediction, (2) Link prediction (3) graph classification. We are particularly interested in building the model for 'Link prediction' between CVD and OS terms.
 
 ### Project Walkthrough:
 1. Understand the schema, data content and development of the knowledgegraph in the interface of Cardiovascular Disease and Oxidative Stress from previous project.
@@ -21,3 +21,4 @@ This project offers the wonderful opportunity to learn and build cutting edge ma
 ### Scientific Goal:
 Understaning the role of OS in Cardiovascualr Disease through molecular mechanism associated ionchannel proteins are the core of the scientific goal of the project. Prediction of the possible links between OS and CVD terms based on KG built through textmining of millions of documents opens the new horizon of the research. Newly predicted links could provid further insignt on understanding the molecular mechanism and disease pathogenesys.
 
+### References
