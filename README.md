@@ -1,4 +1,5 @@
-### Title: Developing Graph Neural Network (GNN) model over Knowledgegraph in the interface of Cardiovascular Disease (CVD) and Oxidative Stress (OS).
+### Title: 
+***Developing Graph Neural Network (GNN) model over Knowledgegraph in the interface of Cardiovascular Disease (CVD) and Oxidative Stress (OS)***.
 
 ### Description: 
 This project includes the development of Graph neural Network model with Knowledgegraph in the interface of the Cardiovascular Diseases and Oxidative Stress.
