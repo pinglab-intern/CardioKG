@@ -1,3 +1,5 @@
+PING LAB INTERN PROJECT 2022-SUMMER
+
 ### Title: 
 ***Link prediction through Graph Neural Network (GNN) model over the Knowledgegraph in the interface of Cardiovascular Disease (CVD) and Oxidative Stress (OS)***.
 
