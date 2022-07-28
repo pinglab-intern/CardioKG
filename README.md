@@ -4,9 +4,18 @@
 ### Description: 
 This project includes the development of Graph Neural Network (GNN) model with knowledgegraph in the interface of the Cardiovascular Diseases (CVD) and Oxidative Stress (OS). Previous projet on "Building Knowledgegraph in the interface of the Cardiovascular Diseases and Oxidative Stress" has sufficiently provided the required data and data schima for building heterogeneous graph representation. One need to convert the knowledge graph into graph embedding so that it can us used for Graph Neural Network model. In general, GNN offers the three different prdiction models (1) node prediction, (2) Link prediction (3) graph classification. We are particularly interested in building the model for 'Link prediction' between CVD and OS terms.
 
-### Heterograph
+### Heterograph Convolution
 
+Heterograph convolution is designed with combining individual relationship model.
 
+```
+conv = HeteroConv({
+          ('paper', 'mentions', 'protein'): GCNConv(-1, hidden_channels),
+          ('paper', 'assigns', 'MeSH'): SAGEConv((-1, -1), hidden_channels),
+          ('protein', 'candidate', 'pathways'): GATConv((-1, -1), hidden_channels),
+          ('protein', 'associated', 'drug'): GATConv((-1, -1), hidden_channels),
+          }, aggr='sum')
+```
 
 ### Project Walkthrough:
 1. Understand the schema, data content and development of the knowledgegraph in the interface of Cardiovascular Disease and Oxidative Stress from previous project.
