@@ -8,6 +8,8 @@ This project includes the development of a Graph Neural Network (GNN) model with
 
 #### Heterograph Convolution
 
+![img](./plots/schema.png)
+
 Heterograph convolution is designed by combining the individual relationship model.
 
 ```
