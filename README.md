@@ -4,7 +4,7 @@
 ***Link prediction through Graph Neural Network (GNN) model over the Knowledgegraph in the interface of Cardiovascular Disease (CVD) and Oxidative Stress (OS)***.
 
 ### Description: 
-This project includes the development of a Graph Neural Network (GNN) model with a knowledge graph in the interface of Cardiovascular Diseases (CVD) and Oxidative Stress (OS). The previous project on "Building Knowledgegraph in the interface of the Cardiovascular Diseases and Oxidative Stress" has sufficiently provided the data and data schema for building heterogeneous graph representation. One needs to convert the knowledge graph into graph embedding so that it can be used for the Graph Neural Network model. In general, GNN offers three different prediction models: (1) node prediction, (2) link prediction, and (3) graph classification. We are particularly interested in building the model for 'Link prediction' between CVD and OS terms.
+This project includes the development of a Graph Neural Network (GNN) model with a knowledge graph in the interface of Cardiovascular Diseases (CVD) and Oxidative Stress (OS). The previous project on "Building Knowledgegraph in the interface of the Cardiovascular Diseases and Oxidative Stress" has sufficiently provided the data and data schema for building heterogeneous graph representation. One needs to convert the knowledge graph into graph embedding so that it can be used for the Graph Neural Network model. In general, GNN offers three different prediction models: (1) node prediction, (2) link prediction, and (3) graph classification. We are particularly interested in building the model for 'link prediction' between CVD and OS terms.
 
 ### Heterograph Convolution
 
