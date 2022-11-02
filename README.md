@@ -19,11 +19,11 @@ conv = HeteroConv({
 ```
 
 ### Project Walkthrough:
-1. Understand the schema, data content, and development of the knowledge graph in the interface of Cardiovascular Disease, CVD drus and underlying molecular mechanism from the previous project.
-2. Learn more about graph embedding functionality in Neo4j GDS library and DGL-KE library
-3. Learn more about the fundamentals of machine learning models ( e.g., allocating data for training, validation, and test, selecting proper GNN message passing algorithm, selecting optimizer, Cost function, accuracy metric, and inferences)
-4. Explore about homogeneous Graph Neural Network with provided tutorial-1
-5. Explore heterogeneous Graph Neural Networks with provided tutorial-2
+1. Understand the schema, data content, and development of the knowledge graph in the interface of Cardiovascular Disease, CVD drus, drug target proteins and underlying molecular mechanism.
+2. Learn more about graph embedding functionality in Neo4j GDS library and DGL-KE library.
+3. Learn more about the fundamentals of machine learning models ( e.g., allocating data for training, validation, and test, selecting proper GNN message passing algorithm, selecting optimizer, Cost function, accuracy metric, and inferences).
+4. Explore about homogeneous Graph Neural Network with provided tutorial-1.
+5. Explore heterogeneous Graph Neural Networks with provided tutorial-2.
 6. Develop the graph embedding for the heterogeneous knowledge graph.
 7. Prepare the training, validation, and testing by masking the nodes or edges.
 8. Train the model with tuning hyperparameters and interpret the performance.
@@ -33,7 +33,7 @@ conv = HeteroConv({
 This project offers the wonderful opportunity to learn and build cutting-edge machine learning models in graph data. Participants will get hands-on experience with GNN and KG libraries (e.g.,  Neo4j, DGL, and Pytorch Geometric). 
 
 ### Scientific Goal:
-Understanding the role of drug in Cardiovascular Disease through a molecular mechanism and adverse effects associated with ion-channel proteins is the core of the scientific goal of the project. Prediction of the possible links between OS and CVD terms based on KG built through text mining of millions of documents opens a new research horizon. Newly predicted associations could provide further insight into the molecular mechanism and disease pathogenesis.
+Understanding the role of drug in Cardiovascular Disease through a molecular mechanism and adverse effects associated drug target proteins is the core of the scientific goal of the project. Prediction of the possible links between Drug and Drug target proteins/ Drug and Diseases opens a new research horizon. Newly predicted associations could provide further insight into the molecular mechanism and disease pathogenesis.
 
 ### References
 1. [Learning HeteroGraph Pytorch Gemometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/heterogeneous.html)
