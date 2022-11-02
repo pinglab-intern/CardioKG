@@ -1,6 +1,4 @@
-## Ping Lab Intern Project, Summar, 2022
 
-### Title: 
 ***Construction of CardioKG (CVD drugs, Disease, proteins, Pathways) and analysis with graph algorithms, clustering and link prediction***.
 
 ### Description: 
