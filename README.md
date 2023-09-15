@@ -4,7 +4,7 @@
 ![img](img/schema.png)
 
 ### Description: 
-This project includes the development of a Graph Neural Network (GNN) model with a knowledge graph in the interface of Cardiovascular Diseases (CVD) and CVD drugs,drug target proteins with underlying molecular mechanism (e.g., pathways). The previous project on "Building Knowledgegraph in the interface of the Cardiovascular Diseases and Oxidative Stress" has sufficiently provided the data and data schema for building heterogeneous graph representation. One needs to convert the knowledge graph into graph embedding so that it can be used for the Graph Neural Network model. In general, GNN offers three different prediction models: (1) node prediction, (2) link prediction, and (3) graph classification. We are particularly interested in building the model for 'link prediction' between CVD drugs and proteins and pathways terms.
+This project includes the development of a Graph Neural Network (GNN) model with a knowledge graph in the interface of Cardiovascular Diseases (CVD) and CVD drugs,drug target proteins with underlying molecular mechanism (e.g., pathways).The knowledge graph will be utilized for graph embedding so that it can be used for the Graph Neural Network model. In general, GNN offers three different prediction models: (1) node prediction, (2) link prediction, and (3) graph classification. We are particularly interested in building the model for 'link prediction' between CVD drugs and proteins and pathways terms.
 
 #### Heterograph Convolution
 
