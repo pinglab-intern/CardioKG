@@ -1,5 +1,5 @@
 
-***Construction of CardioKG (CVD drugs, Disease, proteins, Pathways) and analysis with graph algorithms, clustering and link prediction***.
+***Building and Analyzing CardioKG: A Comprehensive Knowledge Graph of Cardiovascular Drugs, Diseases, Proteins, and Pathways***.
 
 ![img](img/schema.png)
 
