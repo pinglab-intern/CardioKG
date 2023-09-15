@@ -6,10 +6,9 @@
 ### Description: 
 This project includes the development of a Graph Neural Network (GNN) model with a knowledge graph in the interface of Cardiovascular Diseases (CVD) and CVD drugs,drug target proteins with underlying molecular mechanism (e.g., pathways).The knowledge graph will be utilized for graph embedding so that it can be used for the Graph Neural Network model. In general, GNN offers three different prediction models: (1) node prediction, (2) link prediction, and (3) graph classification. We are particularly interested in building the model for 'link prediction' between CVD drugs and proteins and pathways terms.
 
-Use Cases:
-1.	Novel drug target prediction: Using the knowledge graph to explore the relationship between a cardiovascular disease (CVD) and drugs linked to protein drug targets, which may share multiple biological pathways with many proteins, to help identify potential novel drug targets.
-
-2.	Drug repurposing: Find potential new uses of existing drugs by linking drugs with other disease phenotypes that are not currently designated for the drug by examining the complex subgraph of a graph network.
+#### Use Cases:
+1. Novel drug target prediction: Using the knowledge graph to explore the relationship between a cardiovascular disease (CVD) and drugs linked to protein drug targets, which may share multiple biological pathways with many proteins, to help identify potential novel drug targets.
+2. Drug repurposing: Find potential new uses of existing drugs by linking drugs with other disease phenotypes that are not currently designated for the drug by examining the complex subgraph of a graph network.
 
 #### Heterograph Convolution
 
